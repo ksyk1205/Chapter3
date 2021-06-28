@@ -14,8 +14,6 @@ public class CalculatorTest {
 		System.out.println(num1 + "*" + num2 + "=" +calc.times(num1, num2));
 		System.out.println(num1 + "/" + num2 + "=" +calc.divide(num1, num2));
 
-		
-		
 	}
 
 }
